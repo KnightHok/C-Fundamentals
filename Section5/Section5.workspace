@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section5" Database="" Version="10000">
+  <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="No"/>
+  <Project Name="SizeofOperator" Path="SizeofOperator/SizeofOperator.project" Active="No"/>
+  <Project Name="Section6Challenge" Path="Section6Challenge/Section6Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="BasicIO" ConfigName="Debug"/>
+      <Project Name="SizeofOperator" ConfigName="Debug"/>
+      <Project Name="Section6Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="BasicIO" ConfigName="Release"/>
+      <Project Name="SizeofOperator" ConfigName="Release"/>
+      <Project Name="Section6Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
