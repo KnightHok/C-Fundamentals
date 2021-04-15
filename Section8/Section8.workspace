@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section8" Database="" Version="10000">
+  <Project Name="MixedExpressionAndCoversions" Path="MixedExpressionAndCoversions/MixedExpressionAndCoversions.project" Active="No"/>
+  <Project Name="EqualityOperators" Path="EqualityOperators/EqualityOperators.project" Active="No"/>
+  <Project Name="Section8Challenge" Path="Section8Challenge/Section8Challenge.project" Active="No"/>
+  <Project Name="Section8Challenge_2" Path="Section8Challenge_2/Section8Challenge_2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MixedExpressionAndCoversions" ConfigName="Debug"/>
+      <Project Name="EqualityOperators" ConfigName="Debug"/>
+      <Project Name="Section8Challenge" ConfigName="Debug"/>
+      <Project Name="Section8Challenge_2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MixedExpressionAndCoversions" ConfigName="Release"/>
+      <Project Name="EqualityOperators" ConfigName="Release"/>
+      <Project Name="Section8Challenge" ConfigName="Release"/>
+      <Project Name="Section8Challenge_2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

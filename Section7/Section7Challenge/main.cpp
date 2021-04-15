@@ -27,7 +27,7 @@ int main() {
     
     // append vector1 and vector2 to the end of vector_2d
     vector_2d.push_back(vector1);
-    vector_2d.push_back(vector2);
+    vector_2d.push_back(vecto);
     
     cout << "\nDisplaying vector_2d" << endl;
     cout << vector_2d.at(0).at(0) << " " << vector_2d.at(0).at(1) << endl;
